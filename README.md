@@ -40,10 +40,6 @@ My path started in SAP S/4HANA financial system migrations, where I developed a 
 
 ---
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abhishektuteja01&style=flat-square&color=grey" />
-</p>
-
 🎓 Graduating May 2026 · 4.0 GPA · Interested in model validation, market risk & data science in financial services
 
 📫 [LinkedIn](https://linkedin.com/in/abhishektuteja) · [Portfolio](https://abhishektuteja.com) · [Email](mailto:your@email.com)
