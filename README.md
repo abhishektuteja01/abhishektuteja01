@@ -40,25 +40,6 @@ My path started in SAP S/4HANA financial system migrations, where I developed a 
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishektuteja01&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektuteja01&theme=default&hide_border=true" height="165" />
-</p>
-
----
-
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishektuteja01/abhishektuteja01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishektuteja01/abhishektuteja01/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abhishektuteja01/abhishektuteja01/output/github-snake.svg" />
-</picture>
-
----
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=abhishektuteja01&style=flat-square&color=grey" />
 </p>
