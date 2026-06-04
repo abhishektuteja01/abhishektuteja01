@@ -43,6 +43,6 @@ My path started at Deloitte supporting SAP ACM commodity trading and risk system
  
 ---
  
-🎓 Graduating May 2026 · 3.96 GPA · Interested in data science, analytics, and risk in financial services
+🎓 Graduated May 2026 · 3.96 GPA · Interested in data science, analytics, and risk in financial services
  
 📫 [LinkedIn](https://linkedin.com/in/abhishektuteja) · [Portfolio](https://abhishektuteja.com) · [Email](mailto:atutejawork@gmail.com)
